@@ -1,0 +1,20 @@
+h1.heading1{
+    text-align: center;
+    background-color: green;
+    line-height: 100px;
+}
+h1.heading2{
+    color: darkred;
+    text-align: center;
+}
+.myrow{
+    display: flex;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+.myimage{
+    display: flex;
+}
